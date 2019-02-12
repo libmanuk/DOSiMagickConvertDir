@@ -6,6 +6,6 @@ echo 300 dpi
 echo 80% compression rate
 echo File to convert:
 for %%i IN (*.tif) do echo %%i
-for %%i in (*.tif) do magick convert -format jpg -quality 80%% -density 300 -units pixelsperinch -resize 1080^> %%~ni.tif %%~ni.jpg
+for %%i in (*.tif) do magick convert -flatten -format jpg -quality 80%% -density 300 -units pixelsperinch -resize 1080^> %%~ni.tif %%~ni.jpg
 echo All done!  :)
 pause
