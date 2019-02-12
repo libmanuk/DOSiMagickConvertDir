@@ -17,7 +17,7 @@ The script does a simple file count to check and see if all the files were proce
 1. Place a copy of the .bat file in a directory that has some .TIF images to convert.
 2. Double click on the .bat file.
 
-### It is recommended that this script be run on a set of copied .TIF images, not on your "sole" copies. 
+### It is recommended that this script be run on a set of copied .TIF images, not on "sole" copies. 
 
 ### This script assumes that the computer being used for implementation has ImageMagick for Windows installed and that it is working at the commandline.
 
