@@ -20,3 +20,6 @@ The script does a simple file count to check and see if all the files were proce
 ### It is recommended that this script be run on a set of copied .TIF images, not on your "sole" copies. 
 
 ### This script assumes that the computer being used for implementation has ImageMagick for Windows installed and that it is working at the commandline.
+
+## License
+This software on this site is provided "as-is," without any express or implied warranty. In no event shall libmanuk be held liable for any damages arising from the use of the software.
