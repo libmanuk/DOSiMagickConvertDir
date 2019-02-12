@@ -8,4 +8,6 @@ This DOS batch script uses ImageMagick (https://www.imagemagick.org/) for Window
 2. 300 dpi
 3. 80% compression rate
 
+Original filenames are uses and the original .TIF images remain in the directory after the script has finished processing.
+
 ## How to use this batch script.
