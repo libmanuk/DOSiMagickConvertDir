@@ -10,7 +10,7 @@ This DOS batch script uses ImageMagick (https://www.imagemagick.org/) for Window
 
 Original filenames are used and the original .TIF images remain in the directory after the script has finished processing.  Images are also flattened through processing.
 
-The script does a simple file count to check and see if all the files were processed.  
+The script does a simple file count to check and see if all the files were processed and reports back the result. 
 
 ## How to use this batch script.
 
