@@ -10,6 +10,8 @@ This DOS batch script uses ImageMagick (https://www.imagemagick.org/) for Window
 
 Original filenames are used and the original .TIF images remain in the directory after the script has finished processing.  Images are also flattened through processing.
 
+The scipt does a simple file count to check and see if all the files were processed.  
+
 ## How to use this batch script.
 
 1. Place a copy of the .bat file in a directory that has some .TIF images to convert.
