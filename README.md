@@ -11,3 +11,8 @@ This DOS batch script uses ImageMagick (https://www.imagemagick.org/) for Window
 Original filenames are uses and the original .TIF images remain in the directory after the script has finished processing.
 
 ## How to use this batch script.
+
+1. Place a copy of the .bat file in a directory that has some .TIF images to convert.
+2. Double click on the .bat file.
+
+### This script assumes that the computer being used for implementation has ImageMagick for Windows installed and that it is working at the commandline.
